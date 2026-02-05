@@ -1,6 +1,6 @@
 # YSDA Recommender Systems Course
 
-This repository contains materials for the Recommender Systems course taught at the [Yandex School of Data Analysis](https://shad.yandex.ru). This branch corresponds to the ongoing 2025 course.
+This repository contains materials for the Recommender Systems course taught at the [Yandex School of Data Analysis](https://shad.yandex.ru). This branch corresponds to the 2025 spring semester.
 
 ## Syllabus
 
