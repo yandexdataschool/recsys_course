@@ -5,11 +5,11 @@ This repository contains materials for the Recommender Systems course taught at 
 ## Syllabus
 
 - Week 1: Intro
-    - Lecture: Course overview and organizational details, intro to Recommender Systems problem
-    - Seminar: Basic recommenders, user-item latent space
+    - Lecture: course overview and organizational details, intro to "Recommender Systems" problem
+    - Seminar: basic recommenders, user-item latent space
 - Week 2: Candidate generation & metrics
-    - Lecture: RecSys metrics & candidate generation: classic ML, ANN, mixing
-    - Seminar: Yambda contest overview & baseline solution
+    - Lecture: recsys metrics & candidate generation: classic ML, ANN, mixing
+    - Seminar: yambda contest overview & baseline solution
 - Week 3: Ranking, diversity & metrics
     - Lecture: reranking - losses, algorithms, metrics; diversity control and MRR / DPP
     - Seminar: classic algorithms (MF, SLIM, EASE); ranking - pool building, undersampling, composite targets
@@ -26,19 +26,23 @@ This repository contains materials for the Recommender Systems course taught at 
     - Lecture: feature interaction modelling, MLP, multi-task & knowledge distillation
     - Seminar: paper review on DCNv2 architecture 
 - Week 8: System Design, pt. 1
-    - Lecture: Data architectures, logging, biases, data drift and monitoring
-    - Seminar: Feature storages for different scales
+    - Lecture: data architectures, logging, biases, data drift and monitoring
+    - Seminar: feature storages for different scales
 - Week 9: System Design, pt. 2
     - Runtime design, candidate funnel, GPU inference, data delivery, controlled degradation, cold start
     - Seminar: paper review on GPU retrieval - LiNR, SilverTorch
 - Week 10: RecSys Transformers applications
-    - Lecture: All about sequential models (transformers) on user action history
+    - Lecture: all about sequential models (transformers) on user action history
     - Seminar: paper review on PinnerFormer & TransAct (by Pinterest)
 - Week 11: Reinforcement Learning in RecSys
-    - Lecture: All about bandits - algorithms, Thompson sampling, contextual bandits
-    - Seminar: Applications of bandits & off-policy evaluation for e-grocery
+    - Lecture: all about bandits - algorithms, Thompson sampling, contextual bandits
+    - Seminar: applications of bandits & off-policy evaluation for e-grocery
 - Week 12: Case Studies of Yandex's services
+    - Lecture: recsys design for e-grocery, movie streaming platform, blogpost & news feed
+    - Practice: deep dive in Lavka (Yandex's e-grocery) recommender system
 - Week 13: Trends in RecSys
+    - Lecture: state-of-the-art approaches & novel papers in RecSys
+    - Practice: best contest colutions on yambda retrieval
 
 ## Staff
 
